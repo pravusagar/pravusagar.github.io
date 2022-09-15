@@ -1,11 +1,12 @@
-import logo from './logo.svg';
-import './App.css';
+import './app.css';
+import Header from "./components/Header";
+import Data from './Database';
 
 function App() {
   return (
-    <div >
-      <h1>PRABHUSAGAR MOHAPATRA</h1>
-    </div>
+    <>
+      <Header Data={Data}/>
+    </>
   );
 }
 
