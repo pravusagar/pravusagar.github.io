@@ -46,13 +46,13 @@ const Data={
                 "skillname":"Reactjs"
               },
               {
-                "skillname":"Mongo DB"
+                "skillname":"MongoDB"
               },
               {
                 "skillname":"redux"
               },
               {
-                "skillname":"Node JS"
+                "skillname":"NodeJS"
               },
               {
                 "skillname":"Express"
