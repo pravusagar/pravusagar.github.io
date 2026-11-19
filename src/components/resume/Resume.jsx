@@ -7,7 +7,7 @@ const separatorStyle = {
 
 const resumeContent = [
   {
-    jobPosition: "Front-End Developer",
+    jobPosition: "Web Developer",
     company: "Lumena Technologies Pvt. Ltd.",
     jobDuration: "Nov 2025 - Present",
     status: "Current Role",
@@ -48,7 +48,6 @@ const educationContent = [
       "Media Preparation",
       "Plating Method",
       "Autoclaving & Sterilization",
-      "Microscopy",
       "Laboratory Safety",
     ],
   },

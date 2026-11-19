@@ -49,17 +49,20 @@ const About = () => {
               </div>
               <div className="about-text">
                 <p>
-                  I'm a front-end developer from Bhubaneswar with three years
-                  of experience building websites for universities, public
-                  institutions and businesses. I turn designs into responsive,
-                  easy-to-use pages using HTML, CSS, JavaScript and React.
+                  I'm a web developer from Bhubaneswar with three years of
+                  experience building websites for universities, public
+                  institutions and businesses. I develop responsive,
+                  user-friendly websites using HTML, CSS, JavaScript,
+                  React, PHP and MySQL.
                 </p>
                 <p>
-                  Alongside front-end work, I handle WordPress and CMS
-                  maintenance, DNS management and Cloudflare setup. I'm
-                 recently completed a Master's in Computer Science at Utkal
-                  University and enjoy working across both front-end and
-                  back-end development.
+                  Alongside web development, I work with WordPress and CMS
+                  maintenance, DNS management and Cloudflare setup. I
+                  recently completed my Master's in Computer Applications
+                  at Utkal University. I'm also passionate about exploring
+                  Artificial Intelligence, Cybersecurity and emerging
+                  technologies, continuously learning and expanding my
+                  skills across the tech industry.
                 </p>
               </div>
               <div className="info-list">
